@@ -1,3 +1,5 @@
+/*Lucas Rodrigues Camargo Soares - 1080 - pegar o maior valor e sua posição em um vetor de 100 elementos.
+errei uma vez pos dei a posição do indice da forma que o computador ve e nao que um humano ve*/
 #include <stdio.h>
 int main() {
     int N[100], maior, p;

@@ -1,6 +1,8 @@
 /*Lucas Rodrigues Camargo Soares - 1180 - pegar o menor valor e sua posição em um vetor de N elementos.
+deu accepted no Beecrowd mas ta errado pelo imput ser uma string de numeros, vou corrigir mais tarde to com preguissa
 */
 #include <stdio.h>
+#include <string.h>
 
 int main() {
     int N, menor, posicaomenor;
