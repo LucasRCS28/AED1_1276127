@@ -1,0 +1,1 @@
+//Lucas rodrigues Camargo Soares - 1340 - adivinhar o tipo de dado WIP
