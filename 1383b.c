@@ -1,5 +1,13 @@
-/* Lucas Rodrigues Camargo Soares - 1383b - mesma coisa do codigo 1383 porem utilizando alocação dinamica alem de algumas outras pequenas mudanças para otimizar o codigo e deixa-lo mais limpo.
-*/
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Lucas Rodrigues Camargo Soares
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1383
+Data        : 27/08/2026
+Objetivo    : Resolver Sudoku
+Dificuldade : descobrir como fazer a função recursiva para percorrer a matriz
+Uso de IA   : nop
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 

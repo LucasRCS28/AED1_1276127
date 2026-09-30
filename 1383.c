@@ -1,6 +1,13 @@
-/*Lucas Rodrigues Camargo Soares - 1383 - Codigo que checa se um soduku é valido ou não. 
-de boas esse codigo foi feito apos eu ja ter feito o 1383 do beecrowd então esse e uma Otimização 
-*/
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Lucas Rodrigues Camargo Soares
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1383
+Data        : 27/08/2026
+Objetivo    : Resolver Sudoku
+Dificuldade : num lembro
+Uso de IA   : nop
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 int Check(int Sodoku[9][9], int c, int d){
     int sc = c - (c % 3);

@@ -1,4 +1,13 @@
-/* Lucas Rodrigues Camargo Soares - 1068 - Verificação de balanço de parênteses */
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Lucas Rodrigues Camargo Soares
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1068
+Data        : 1/09/2026
+Objetivo    : Verificar o balanço de parênteses em uma expressão
+Dificuldade : fácil pois pilha e legal de mexer
+Uso de IA   : se voce tiver vendo isso saiba que eu to adicionando esses comentarios em todos os codigos so agora por isso que algumas coisas estão faltando e por conhecidencia eu utilizei AI para fazer esses comentarios, 30/09/2026.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,5 +1,13 @@
-/* Lucas Rodrigues Camargo Soares - 1080b - mesma coisa do codigo 1080 porem utilizando alocação dinamica alem de algumas outras pequenas mudanças para otimizar o codigo e deixa-lo mais limpo.
-*/
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Lucas Rodrigues Camargo Soares
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1180
+Data        : 21/08/2026
+Objetivo    : Encontrar o maior valor e sua posição em um vetor
+Dificuldade : fácil
+Uso de IA   : nop
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 

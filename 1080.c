@@ -1,5 +1,13 @@
-/*Lucas Rodrigues Camargo Soares - 1080 - pegar o maior valor e sua posição em um vetor de 100 elementos.
-errei uma vez pos dei a posição do indice da forma que o computador ve e nao que um humano ve*/
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Lucas Rodrigues Camargo Soares
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1180
+Data        : 21/08/2026
+Objetivo    : Encontrar o maior valor e sua posição em um vetor
+Dificuldade : fácil
+Uso de IA   : nop
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 int main() {
     int N[100], maior, p;

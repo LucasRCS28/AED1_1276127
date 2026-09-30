@@ -1,4 +1,13 @@
-//Lucas Rodrigues Camargo Soares - 2448 - Correio
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Lucas Rodrigues Camargo Soares
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/2448
+Data        : 23/09/2026
+Objetivo    : fazer o carteiro entregar as cartas na ordem correta, calculando a distância percorrida
+Dificuldade : organizar as Variaveis
+Uso de IA   : apenas para fazer o ultimo laço for porque tava com preguiça de fazer(utilizei o copilot), mas o resto foi feito por mim
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 int BinarySort(int *array, int size, int value){

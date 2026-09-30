@@ -1,4 +1,13 @@
-/* Lucas Rodrigues Camargo Soares - 1110 - Jogando Cartas Fora */
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Lucas Rodrigues Camargo Soares
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1110
+Data        : 1/09/2026
+Objetivo    : Deck das cartas
+Dificuldade : não lembro
+Uso de IA   : nao me lembro ao certo mais acho que utilizei ele para fazer as structs apenas
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 

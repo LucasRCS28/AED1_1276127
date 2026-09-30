@@ -1,6 +1,13 @@
-/*Lucas Rodrigues Camargo Soares - 1180 - pegar o menor valor e sua posição em um vetor de N elementos.
-deu accepted no Beecrowd mas ta errado pelo imput ser uma string de numeros, vou corrigir mais tarde to com preguissa
-*/
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Lucas Rodrigues Camargo Soares
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1180
+Data        : 21/08/2026
+Objetivo    : Encontrar o menor valor e sua posição em um vetor
+Dificuldade : fácil
+Uso de IA   : nop
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <string.h>
 
