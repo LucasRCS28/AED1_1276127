@@ -3,7 +3,7 @@ Disciplina  : Algortimo e Estrutura de Dados 2026S1
 Nome        : Lucas Rodrigues Camargo Soares
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1200
-Data        : 21/08/2026
+Data        : 17/11/2026
 Objetivo    : Ajudar a Marcela no Binary Search
 Dificuldade :  Medio-Dificil
 Uso de IA   : precisei pois não sabia como eu terminava o arquivo tive que perguntar pro gemini como fazia o programa terminar
